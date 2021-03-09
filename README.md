@@ -1,2 +1,2 @@
 # vision_sms_gateway
- Sms Gate App built with Flutter
+ Sms Gateway App built with Flutter
