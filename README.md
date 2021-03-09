@@ -1,5 +1,5 @@
 # vision_sms_gateway
- ms Gateway App Built with Flutter
+ SMSM Gateway App Built with Flutter
  
  Version 0.1
 
